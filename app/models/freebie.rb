@@ -1,3 +1,4 @@
-class Freebie < ActiveRecord::Base
 
+class Freebie < ActiveRecord::Base
+   
 end
